@@ -23,3 +23,4 @@ Notes and usage details for arconia.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
