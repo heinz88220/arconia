@@ -24,3 +24,4 @@ Arconia is a framework that acts as an add-on for Spring Boot, designed to enhan
 // avoid re-reading the config on every call
 // clarify the control flow
 // clarify the control flow
+// drop an unused branch
